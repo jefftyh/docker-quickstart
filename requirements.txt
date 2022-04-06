@@ -1,0 +1,5 @@
+# FastAPI
+fastapi>=0.75.0
+uvicorn>=0.17.5
+
+#opencv-python>=4.1.2
